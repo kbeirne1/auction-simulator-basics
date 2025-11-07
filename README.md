@@ -1,3 +1,5 @@
+[![tests](https://github.com/kathleen-beirne/auction-simulator-basics/actions/workflows/tests.yml/badge.svg)](https://github.com/kathleen-beirne/auction-simulator-basics/actions/workflows/tests.yml)
+
 # auction-simulator-basics
 
 
